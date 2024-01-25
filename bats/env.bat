@@ -1,0 +1,5 @@
+@echo off
+set DEV=C:\Dev
+set VERSIONED=C:\Dev\VERSIONED
+set PATH=%VERSIONED%\bats;%PATH%
+set ROOT=%VERSIONED%
